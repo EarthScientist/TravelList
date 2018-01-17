@@ -1,4 +1,4 @@
-#### NEPAL -- Jan/Feb 2018:
+### NEPAL -- Jan/Feb 2018:
 ---
 #### Clothing
 ###### Undergarments
@@ -31,6 +31,8 @@
 - [ ] Shampoo / Black soap bar
 - [ ] pack towel (bright-green)
 - [ ] Vitamins
+- [ ] sunscreen
+- [ ] blemish tincture
 
 ###### Other 
 - [ ] headlamp
@@ -39,7 +41,9 @@
 - [ ] external battery and charger
 - [ ] OSMO
 - [ ] BEER x 2-3 4-packs and 2 bottles and 1 sour?
-
+- [ ] winter hat
+- [ ] summer hat
+- [ ] sunglasses
 
 
 
